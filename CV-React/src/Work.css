@@ -8,18 +8,18 @@
     font-size: 1.5vw;
 }
 
-.ison {
-    margin-top: 3.7vw;
+.cbe {
+    margin-bottom: 6.5vw;
 }
+
+.insa {
+    margin-bottom: 3.5vw;
+}
+
 
 .workright {
     width: 65.0%;
     margin-right: 5.5vw;
-}
-
-.amn,
-.csr {
-    margin-top: 1.75vw;
 }
 
 .dev,
@@ -29,9 +29,14 @@
 }
 
 @media (max-width: 768px) {
-    .ison {
-        margin-top: 28vw;
+    .insa {
+        margin-top: 23vw;
     }
+
+    .ison {
+        margin-top: 27.5vw;
+    }
+
 
     .amn {
         margin-top: 20vw;

@@ -5,8 +5,13 @@ function Work() {
     return (
         <div className="workContainer">
             <div className="workleft">
+                <p className="cbe">
+                    Dec 2025 - Present <br />
+                    <strong>Database Engineer</strong> <br />
+                    CBE
+                </p>
                 <p className="insa">
-                    Feb 2025 - Present <br />
+                    Feb 2025 - March 2026 <br />
                     <strong>Software Developer</strong> <br />
                     INSA
                 </p>
@@ -22,6 +27,14 @@ function Work() {
                 </p>
             </div>
             <div className="workright">
+                <p className="dba">
+                    CBE has been a place to learn and work on the following so far:-
+                    <ul>
+                        <li>Oracle Database</li>
+                        <li>SQL Servers</li>
+                        <li>Oracle Virtual Box and Oracle Linux OS VMs</li>
+                    </ul>
+                </p>
                 <p className="dev">
                     After joining INSA, I have been assigned to secure digital payment division.
                     I am working as a software developer on a locally developed system called Derash which is a National Billing Payment System (NBPS).
